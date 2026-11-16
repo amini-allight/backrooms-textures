@@ -6,6 +6,8 @@ A set of textures for the classic Backrooms environment. Free to use for any pur
 
 Above is an image of the textures realtime rendered using Godot's Forward+ renderer and pre-baked lightmaps, postprocessed with G'MIC.
 
+I also have a set of Poolrooms textures, available [here](https://github.com/amini-allight/poolrooms-textures).
+
 ## License
 
 Original source image used to create the carpet textures from [Seamless Pixels](https://seamless-pixels.blogspot.com/) based on permission granted [here](https://www.deviantart.com/hhh316/journal/Devious-Journal-Entry-286657880). Go check out their cool free texture library!
